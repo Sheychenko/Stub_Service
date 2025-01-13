@@ -1,4 +1,4 @@
-## Demo Project
+## REST API STUB 
 
 This is a simple Spring Boot application designed as a stub REST API. The project includes basic functionalities for handling JSON requests and generating JSON responses with simulated random response times. Additionally, it provides an HTML interface for testing.
 
