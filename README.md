@@ -38,7 +38,7 @@ You can test the application by sending HTTP requests using cURL.
 
 #### Sending a POST Request:
 ```
-curl -X POST http://localhost:8090/api/process \
+curl -X POST http://localhost:8090/process \
      -H "Content-Type: application/json" \
      -d '{"name": "John Doe", "age": 30}'
 ```
