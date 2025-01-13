@@ -19,6 +19,21 @@ target/
 *.iml
 *.ipr
 
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.bak
+*.swp
+*.swo
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
